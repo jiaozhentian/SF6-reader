@@ -35,4 +35,6 @@ In this project, we suppose that the meter has been detected and the meter image
 ![Figure_4.jpg](./data/experiment_results/Figure_4.jpg)
 
 # Contact
+I have updated the License to AGPL from 2024, which means you must open source when you use these codes, if you want to use commercial version, please contact me.
+
 744483644@qq.com
